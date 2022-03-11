@@ -33,7 +33,7 @@ O design foi inspirado em um projeto compartilhado no [Dribbble](https://dribbbl
 ## 🧪 Testando
 ```bash
 # Clone o projeto
-$ git clone https://github.com/daniloamsilva/pokedex.git
+$ git clone https://github.com/Junior-pnascimento/pokedex.git
 
 # Instale as dependências
 $ yarn
